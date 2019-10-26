@@ -2,10 +2,15 @@
   "name": "tmux_browser",
   "version": "1.0.0",
   "description": "a browser with panes, tmux with built in browser support, both",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "yrhooke",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.0",
+    "elm": "^0.19.1-3"
+  }
 }
