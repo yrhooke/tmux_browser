@@ -10,7 +10,7 @@
   "author": "yrhooke",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.0.0",
+    "electron": "^7.2.4",
     "elm": "^0.19.1-3"
   }
 }
